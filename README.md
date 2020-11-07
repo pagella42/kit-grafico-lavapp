@@ -1,6 +1,6 @@
 # LAVAPP®
 
-## Identidad visual y Kit Gráfico
+## Identidad visual y Kit Gráfico.
 
 En el actual repositorio, se encuentra el kit grafico de LAVAPP, donde se demarca la identidad Visual de LAVAPP®, Marca Registrada, a disposición para su uso por parte de los "LAVAPPERS", a modo de difusion o publicidad en redes y otros medios.
 
